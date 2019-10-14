@@ -13,6 +13,7 @@ def link
   puts phrase
 end
 
+def any_phrase
 describe "any_phrase" do
   it "takes in an argument and puts out the catch phrase" do
     phrase = "Do A Barrel Roll!"
